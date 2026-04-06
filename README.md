@@ -1,8 +1,8 @@
 <div align="center">
-  
-  ![1000008578](https://github.com/user-attachments/assets/cf67b2d6-6b74-42b8-80ae-287f03c735af)
 
-  # AionSystem
+  ![1000008580](https://github.com/user-attachments/assets/598fed68-29e1-4e6f-9642-8cc43aa3bfed)
+
+   # AionSystem
 
 ### *AI Reliability Architecture · Certainty Engineering · AGI Research*
 
