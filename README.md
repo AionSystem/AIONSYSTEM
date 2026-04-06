@@ -1,5 +1,3 @@
-  ![aion-logo](https://github.com/user-attachments/assets/f25f1252-eed5-4615-9b5a-1d15876de310)
-<div align="center">
 
 # AionSystem
 
