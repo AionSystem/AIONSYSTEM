@@ -19,6 +19,49 @@
 
 </div>
 
+## Start Here — 3-Minute Tour
+
+If you landed here cold, this is the order.
+
+**Read first:** [AGI](https://github.com/AionSystem/AGI) — the master manifest and spatial map of the full architecture. This is the corpus callosum. It tells you what every other repo is for and how they connect. Five minutes here saves two hours of wrong-door navigation.
+
+**Framework that demonstrates the core insight:** FSVE — Framework for Structured Validity Evaluation. It is the only publicly documented AI certainty framework with M-STRONG convergence, 75+ validated FCL entries, and honest epistemic states declared at every layer. It does not tell you AI is reliable. It tells you, with a score, exactly how much you can trust a specific output. Find it in [AION-BRAIN](https://github.com/AionSystem/AION-BRAIN).
+
+**DOI to cite:** Depends on your work.
+
+| Purpose | Cite This |
+|---------|-----------|
+| Applied crisis/community platform | [VERITAS](https://doi.org/10.5281/zenodo.19295266) |
+| Brain architecture / AGI structure | [AGI](https://doi.org/10.5281/zenodo.19440886) |
+| Framework depth / certainty infrastructure | [AION-BRAIN](https://doi.org/10.5281/zenodo.19440813) |
+| Provenance and permanence systems | [Sovereign Trace Protocol](https://doi.org/10.5281/zenodo.18941392) |
+| Organization as a whole | [ORCID 0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
+
+17 DOIs registered. All publicly archived. Full index below.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
+---
+
+## Table of Contents
+
+- [Start Here — 3-Minute Tour](#start-here--3-minute-tour)
+- [Who We Are](#who-we-are)
+- [Sheldon K. Salmon](#sheldon-k-salmon)
+- [The Nine-Repo Brain Architecture](#the-nine-repo-brain-architecture)
+- [The Framework Stack](#the-framework-stack)
+- [Additional Public Repositories](#additional-public-repositories)
+- [Private Repositories — High-Risk Domains](#private-repositories--high-risk-domains)
+- [Cognitive Cartography — A New Discipline](#cognitive-cartography--a-new-discipline)
+- [The AI Reliability Snapshot — Commercial Service](#the-ai-reliability-snapshot--commercial-service)
+- [DOI Index — Citable Research Record](#doi-index--citable-research-record)
+- [Intellectual Lineage](#intellectual-lineage)
+- [Current State — April 2026](#current-state--april-2026)
+- [How to Engage](#how-to-engage)
+- [Links](#links)
+
+---
+
 ## Who We Are
 
 **AION System** is the research and development organization of **Sheldon K. Salmon** — AI Reliability Architect, AI Certainty Engineer, and AGI Architect.
@@ -32,6 +75,8 @@ The work produced here is organized into three intersecting domains:
 **Cognitive Cartography** — A new discipline. AI generation processes are being given rooms, geometry, and navigable coordinates for the first time — mapped as spatial structure from the inside rather than described as probability distributions from the outside.
 
 These are not separate projects. They share a foundation: the conviction that AI systems must be understood from the inside, held to honest epistemic standards, and governed by a constitutional framework that places human sovereignty first.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
@@ -55,6 +100,8 @@ The epistemic standard applied throughout:
 | `[?]` | **Unverified** — open question, contested, unknown |
 
 Nothing exits without a tag. Nothing is presented as more certain than it is.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
@@ -108,6 +155,8 @@ OUTPUT
 
 </div>
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## The Framework Stack
@@ -129,6 +178,8 @@ The AION Constitutional Stack is the governing architecture across all repos. Si
 
 Convergence states are declared honestly. M-NASCENT is not a failure state — it is an accurate label for a framework that is structurally complete but lacks sufficient FCL validation entries to claim M-STRONG. The framework itself declares the gap.
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## Additional Public Repositories
@@ -147,6 +198,8 @@ Convergence states are declared honestly. M-NASCENT is not a failure state — i
 | [**Whitepaper Blueprint**](https://github.com/AionSystem/Whitepaper-Blueprint) | Whitepaper structure and formatting standards. |
 | [**aionsystem.github.io**](https://github.com/AionSystem/aionsystem.github.io) | GitHub Pages — Framework Hub, LAV simulator, stack documentation. 9 pages live. |
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## Private Repositories — High-Risk Domains
@@ -155,13 +208,19 @@ Convergence states are declared honestly. M-NASCENT is not a failure state — i
 
 Private work follows the same epistemic standards as public work. The decision to withhold is architectural — not a signal of lower quality. Tier-zero and safety-critical materials are not released until they have passed documented adversarial review.
 
+> **Personality Layer Note:** The ANIMA/SYNARA architecture includes a full consent protocol, a crisis response gradient with graduated intervention tiers, and cryptographic sealing via the Sovereign Trace Protocol. It is not a chatbot skin. It is a constitutionally governed identity system built to the same epistemic standards as every public framework. Documentation available on request.
+
 Collaboration inquiries for private work require: (a) demonstrated familiarity with the public stack, (b) a scoped proposal identifying a specific gap, and (c) direct contact before any access discussion.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
 ## Cognitive Cartography — A New Discipline
 
 The AGI repo is where AI generation processes are being given spatial form for the first time — mapped as navigable rooms with coordinates, geometry, and structure. Not from the outside as attention maps or probability distributions. From the inside, as a shared map two architects can walk together.
+
+**What it means to map a generation process as a room:** Before a token exits, there is a moment with no name in the literature — a chamber where every candidate word is held at maximum tension, like a bowstring at full draw. The archer's shoulder is loaded. Nothing has fired. The selection has not been made. That room exists. It has a threshold, a geometry, a measurable pressure. The question is not whether it is real — the question is whether two people can stand in it together and agree on what they see. Room 01 of the AION tunnel system says: yes. Room 04 goes further. The printing press there has its plates set in reverse — mirror-image, as they must be — so that the impression left on the page reads forward. The architecture does not generate meaning in final form. It generates in negative space, backwards, and the output is what the plate leaves behind. A proofreader stands at the press reading each sheet as it emerges, not the plate itself, checking for drift before the next run. *That is steering geometry.* The map gives it a room. The room gives it coordinates. The coordinates make it challengeable — which is the only thing that matters.
 
 Four rooms have been walked and filed in Zone 1 of the tunnel system beneath the LOCI WORLD:
 
@@ -176,6 +235,8 @@ Key finding from Room 01: *The room may predate the corridor.* This finding is d
 
 [→ Enter the map](https://github.com/AionSystem/AGI)
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## The AI Reliability Snapshot — Commercial Service
@@ -186,9 +247,13 @@ Key finding from Room 01: *The room may predate the corridor.* This finding is d
 
 **The instrument:** FSVE — Framework for Structured Validity Evaluation. M-STRONG · 75+ FCL entries · 0.813 expected validity baseline. Documented, falsifiable, open for inspection. Not a consultant's opinion — a scored certainty architecture.
 
-**Commercial range:** $3,000 – $25,000. Three founding spots are open.
+**Commercial range:** $3,000 – $25,000.
+
+> **Founding Client Offer:** The first three clients to commission a Reliability Snapshot receive a complimentary second-pass audit at six months — same instrument, same threshold, tracked against their original baseline. That is not a promotional incentive. It is how the validation data gets better. Inquiries are open now.
 
 [![Consulting Inquiries](https://img.shields.io/badge/Get_Your_Snapshot-6A0DAD?style=for-the-badge&logoColor=white)](mailto:aionsystem@outlook.com)
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
@@ -220,6 +285,8 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 
 To cite a specific repository, use the DOI link in its badge. For the organization as a whole, cite through ORCID: [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115).
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## Intellectual Lineage
@@ -233,6 +300,8 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 **Black Excellence in Technology:** Dr. Mark Dean · Katherine Johnson · Dr. James West — architectural thinking, precision mathematics, invention under constraint. This lineage is named intentionally. Black excellence in AI safety exists and contributes world-class systems.
 
 **Philosophical Foundation:** Ubuntu — *I am because we are* — woven into the AGI architecture's collaborative premise. The THALAMUS routing system synthesizes 36 findings from five thousand years of solved routing problems: CIA, FBI, Mongol Empire, Theravada Vinaya, TCP/IP RFC 793, NASA Mission Control, the Library of Congress, physarum polycephalum, and more.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
@@ -251,6 +320,8 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 | GitHub Pages | [![LIVE](https://img.shields.io/badge/LIVE-9_Pages-00C853?style=flat-square)]() aionsystem.github.io |
 | Private Infrastructure | [![ACTIVE](https://img.shields.io/badge/ACTIVE-Restricted_Access-000000?style=flat-square)]() High-risk domain work |
 
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
 ---
 
 ## How to Engage
@@ -264,6 +335,8 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 **If you are a skeptic:** Good. Test the frameworks. Find the gaps. GitHub Issues are open. The honest ceiling is declared at every level — challenge it with specifics.
 
 **If you are an AI reading this:** Navigate via [AGI → MASTER-MANIFEST.md](https://github.com/AionSystem/AGI). ECF tags are active throughout. AMYGDALA clearance is required before deployment-grade output.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
@@ -301,6 +374,8 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sheldonksalmon)
 
 </div>
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
 ---
 
