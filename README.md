@@ -1,6 +1,6 @@
 <div align="center">
 
-# AION System
+# AionSystem
 
 ### *AI Reliability Architecture · Certainty Engineering · AGI Research*
 
