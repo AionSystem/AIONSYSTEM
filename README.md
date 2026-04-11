@@ -282,8 +282,9 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 | **TEXTILE-PILLING** | [![DOI](https://zenodo.org/badge/1200586477.svg)](https://doi.org/10.5281/zenodo.19409957) |
 | **THALAMUS** | [![DOI](https://zenodo.org/badge/1172912882.svg)](https://doi.org/10.5281/zenodo.19441029) |
 | **VERITAS** | [![DOI](https://zenodo.org/badge/1194238160.svg)](https://doi.org/10.5281/zenodo.19295266) |
+| **VERITAS-SHELLFISH** |[![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897)
 
-**17 citable works. All registered. All publicly archived.**
+**18 citable works. All registered. All publicly archived.**
 
 To cite a specific repository, use the DOI link in its badge. For the organization as a whole, cite through ORCID: [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115).
 
