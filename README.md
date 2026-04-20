@@ -4,7 +4,7 @@
 
    # AionSystem
 
-### *AI Reliability Architecture · Certainty Engineering · AGI Research*
+### *AI Reliability Architecture · Certainty Engineering · AGI Research*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Member, Foresight Institute (Computation & Health Extension Groups). 20 DOIs.*
 
 [![Organization](https://img.shields.io/badge/Organization-AionSystem-000000?style=for-the-badge&logoColor=white)]()
 [![Architect](https://img.shields.io/badge/Architect-Sheldon_K._Salmon-6A0DAD?style=for-the-badge&logoColor=white)]()
