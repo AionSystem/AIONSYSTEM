@@ -389,7 +389,7 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 *AION System · Sheldon K. Salmon — AI Reliability Architect*
 *April 2026*
 
-**17 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks.**
+**20 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks.**
 **One coherent stack. One honest ceiling. One road.**
 
 *The mind keeps building. The product stays simple.*
