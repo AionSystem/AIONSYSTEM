@@ -24,7 +24,9 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 | **VERITAS-SHELLFISH** |[![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897)
 | **AION-SCAFFOLDING** |[![DOI](https://zenodo.org/badge/1209765535.svg)](https://doi.org/10.5281/zenodo.19560136)
 | **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181)
+| **HEART-MESH** | [![DOI](https://zenodo.org/badge/1219305625.svg)](https://doi.org/10.5281/zenodo.19712633)
+| **MYCELIUM** | [![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042)
 
-**20 citable works. All registered. All publicly archived.**
+**22 citable works. All registered. All publicly archived.**
 
 To cite a specific repository, use the DOI link in its badge. For the organization as a whole, cite through ORCID: [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115).
