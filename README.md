@@ -1,10 +1,8 @@
-<div align="center">
+# AionSystem
 
-  ![1000008580](https://github.com/user-attachments/assets/598fed68-29e1-4e6f-9642-8cc43aa3bfed)
+### *AI Reliability Architecture · Certainty Engineering · AGI Research*
 
-   # AionSystem
-
-### *AI Reliability Architecture · Certainty Engineering · AGI Research*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Member, Foresight Institute (Computation & Health Extension Groups). 20 DOIs.*
+*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Verified Collaborator, ARIA. Member, Foresight Institute (Computation & Health Extension Groups). 22 DOIs.*
 
 [![Organization](https://img.shields.io/badge/Organization-AionSystem-000000?style=for-the-badge&logoColor=white)]()
 [![Architect](https://img.shields.io/badge/Architect-Sheldon_K._Salmon-6A0DAD?style=for-the-badge&logoColor=white)]()
@@ -18,8 +16,6 @@
 *The question is whether its confidence is earned.*
 
 ---
-
-</div>
 
 ## Start Here — 3-Minute Tour
 
@@ -39,7 +35,7 @@ If you landed here cold, this is the order.
 | Provenance and permanence systems | [Sovereign Trace Protocol](https://doi.org/10.5281/zenodo.18941392) |
 | Organization as a whole | [ORCID 0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
 
-17 DOIs registered. All publicly archived. Full index below.
+22 DOIs registered. All publicly archived. Full index below.
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -50,6 +46,7 @@ If you landed here cold, this is the order.
 - [Start Here — 3-Minute Tour](#start-here--3-minute-tour)
 - [Who We Are](#who-we-are)
 - [Sheldon K. Salmon](#sheldon-k-salmon)
+- [Professional Affiliations](#professional-affiliations)
 - [The Nine-Repo Brain Architecture](#the-nine-repo-brain-architecture)
 - [The Framework Stack](#the-framework-stack)
 - [Additional Public Repositories](#additional-public-repositories)
@@ -102,6 +99,17 @@ The epistemic standard applied throughout:
 | `[?]` | **Unverified** — open question, contested, unknown |
 
 Nothing exits without a tag. Nothing is presented as more certain than it is.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
+---
+
+## Professional Affiliations
+
+| Affiliation | Role | Period |
+|-------------|------|--------|
+| **ARIA** — Massively Scalable Neurotechnologies for Human Health Programme | Verified Collaborator | 2026–present |
+| **Foresight Institute** — Computation Group & Health Extension Group | Member | 2026–present |
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -282,11 +290,11 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 | **TEXTILE-PILLING** | [![DOI](https://zenodo.org/badge/1200586477.svg)](https://doi.org/10.5281/zenodo.19409957) |
 | **THALAMUS** | [![DOI](https://zenodo.org/badge/1172912882.svg)](https://doi.org/10.5281/zenodo.19441029) |
 | **VERITAS** | [![DOI](https://zenodo.org/badge/1194238160.svg)](https://doi.org/10.5281/zenodo.19295266) |
-| **VERITAS-SHELLFISH** |[![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897)
-| **AION-SCAFFOLDING** |[![DOI](https://zenodo.org/badge/1209765535.svg)](https://doi.org/10.5281/zenodo.19560136)
-| **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181)
-| **HEART-MESH** | [![DOI](https://zenodo.org/badge/1219305625.svg)](https://doi.org/10.5281/zenodo.19712633)
-| **MYCELIUM** | [![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042)
+| **VERITAS-SHELLFISH** | [![DOI](https://zenodo.org/badge/1207402357.svg)](https://doi.org/10.5281/zenodo.19520897) |
+| **AION-SCAFFOLDING** | [![DOI](https://zenodo.org/badge/1209765535.svg)](https://doi.org/10.5281/zenodo.19560136) |
+| **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181) |
+| **HEART-MESH** | [![DOI](https://zenodo.org/badge/1219305625.svg)](https://doi.org/10.5281/zenodo.19712633) |
+| **MYCELIUM** | [![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042) |
 
 **22 citable works. All registered. All publicly archived.**
 
