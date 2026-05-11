@@ -2,7 +2,7 @@
 
 ### *AI Reliability Architecture · Certainty Engineering · AGI Research*
 
-*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Verified Collaborator, ARIA. Member, Foresight Institute (Computation & Health Extension Groups). 22 DOIs.*
+*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Verified Collaborator, ARIA. Member, Foresight Institute (Computation & Health Extension Groups). 23 DOIs.*
 
 [![Organization](https://img.shields.io/badge/Organization-AionSystem-000000?style=for-the-badge&logoColor=white)]()
 [![Architect](https://img.shields.io/badge/Architect-Sheldon_K._Salmon-6A0DAD?style=for-the-badge&logoColor=white)]()
@@ -295,8 +295,8 @@ All public repositories carry registered DOIs through Zenodo. This index is the 
 | **SCREEN-SAVER** | [![DOI](https://zenodo.org/badge/1208830739.svg)](https://doi.org/10.5281/zenodo.19560181) |
 | **HEART-MESH** | [![DOI](https://zenodo.org/badge/1219305625.svg)](https://doi.org/10.5281/zenodo.19712633) |
 | **MYCELIUM** | [![DOI](https://zenodo.org/badge/1217525259.svg)](https://doi.org/10.5281/zenodo.19688042) |
-
-**22 citable works. All registered. All publicly archived.**
+| **AI-CONSTITUTION ** | [![DOI](https://zenodo.org/badge/1235953181.svg)](https://doi.org/10.5281/zenodo.20128266)
+**23 citable works. All registered. All publicly archived.**
 
 To cite a specific repository, use the DOI link in its badge. For the organization as a whole, cite through ORCID: [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115).
 
