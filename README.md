@@ -1,6 +1,6 @@
 # AionSystem
 
-### *AI Reliability Architecture · Certainty Engineering · AGI Research*
+### *AI Reliability Architecture · Certainty Engineering · ADI Research*
 
 *Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Verified Collaborator, ARIA. Member, Foresight Institute (Computation & Health Extension Groups). 23 DOIs.*
 
@@ -21,7 +21,7 @@
 
 If you landed here cold, this is the order.
 
-**Read first:** [AGI](https://github.com/AionSystem/AGI) — the master manifest and spatial map of the full architecture. This is the corpus callosum. It tells you what every other repo is for and how they connect. Five minutes here saves two hours of wrong-door navigation.
+**Read first:** [ADI](https://github.com/AionSystem/ADI) — the master manifest and spatial map of the full architecture. This is the corpus callosum. It tells you what every other repo is for and how they connect. Five minutes here saves two hours of wrong-door navigation.
 
 **Framework that demonstrates the core insight:** FSVE — Framework for Structured Validity Evaluation. It is the only publicly documented AI certainty framework with M-STRONG convergence, 75+ validated FCL entries, and honest epistemic states declared at every layer. It does not tell you AI is reliable. It tells you, with a score, exactly how much you can trust a specific output. Find it in [AION-BRAIN](https://github.com/AionSystem/AION-BRAIN).
 
@@ -30,7 +30,7 @@ If you landed here cold, this is the order.
 | Purpose | Cite This |
 |---------|-----------|
 | Applied crisis/community platform | [VERITAS](https://doi.org/10.5281/zenodo.19295266) |
-| Brain architecture / AGI structure | [AGI](https://doi.org/10.5281/zenodo.19440886) |
+| Brain architecture / ADI structure | [AGI](https://doi.org/10.5281/zenodo.19440886) |
 | Framework depth / certainty infrastructure | [AION-BRAIN](https://doi.org/10.5281/zenodo.19440813) |
 | Provenance and permanence systems | [Sovereign Trace Protocol](https://doi.org/10.5281/zenodo.18941392) |
 | Organization as a whole | [ORCID 0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
