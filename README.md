@@ -2,7 +2,7 @@
 
 ### *AI Reliability Architecture · Certainty Engineering · ADI/AGI Research*
 
-*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. Verified Collaborator, ARIA. Member, Foresight Institute (Computation & Health Extension Groups). 23 DOIs.*
+*Creator of FSVE (certainty scoring) and the AION Constitutional Stack. ARIA Teaming Programme — Applicant. Foresight Institute community — Computation & Health Extension channels. 23 DOIs.*
 
 [![Organization](https://img.shields.io/badge/Organization-AionSystem-000000?style=for-the-badge&logoColor=white)]()
 [![Architect](https://img.shields.io/badge/Architect-Sheldon_K._Salmon-6A0DAD?style=for-the-badge&logoColor=white)]()
@@ -35,7 +35,7 @@ If you landed here cold, this is the order.
 | Provenance and permanence systems | [Sovereign Trace Protocol](https://doi.org/10.5281/zenodo.18941392) |
 | Organization as a whole | [ORCID 0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115) |
 
-22 DOIs registered. All publicly archived. Full index below.
+23 DOIs registered. All publicly archived. Full index below.
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -108,8 +108,8 @@ Nothing exits without a tag. Nothing is presented as more certain than it is.
 
 | Affiliation | Role | Period |
 |-------------|------|--------|
-| **ARIA** — Massively Scalable Neurotechnologies for Human Health Programme | Verified Collaborator | 2026–present |
-| **Foresight Institute** — Computation Group & Health Extension Group | Member | 2026–present |
+| **ARIA** — Massively Scalable Neurotechnologies for Human Health Programme | Teaming Programme — Applicant | 2026–present |
+| **Foresight Institute** — Computation & Health Extension community channels | Community Member | 2026–present |
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -399,7 +399,7 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 *AION System · Sheldon K. Salmon — AI Reliability Architect*
 *April 2026*
 
-**22 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks.**
+**23 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks.**
 **One coherent stack. One honest ceiling. One road.**
 
 *The mind keeps building. The product stays simple.*
