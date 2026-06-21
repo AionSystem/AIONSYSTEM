@@ -1,6 +1,6 @@
 # AionSystem
 
-### *AI Reliability Architecture · Certainty Engineering · ADI/AGI Research*
+### *AI Reliability Architecture · World Architect · Certainty Engineering · ADI/AGI Research*
 
 *Creator of FSVE (certainty scoring) and the AION Constitutional Stack. ARIA Teaming Programme — Applicant. Foresight Institute community — Computation & Health Extension channels. 23 DOIs.*
 
