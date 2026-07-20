@@ -1,6 +1,6 @@
 # AionSystem
 
-### *AI Reliability Architecture · World Architect · Certainty Engineering · ADI/AGI Research*
+### *Red-Team Frameworks · Structural Integrity Analysis · AI Reliability & Certainty Engineering · World Architecture*
 
 *Creator of FSVE (certainty scoring) and the AION Constitutional Stack. ARIA Teaming Programme — Applicant. Foresight Institute community — Computation & Health Extension channels. 23 DOIs.*
 
@@ -12,8 +12,8 @@
 
 ---
 
-*The question is not whether your AI is confident.*
-*The question is whether its confidence is earned.*
+*I take no sides. I read what the document actually says.*
+*The question is not whether your AI is confident — it's whether that confidence is earned, and whether anyone measured it.*
 
 ---
 
@@ -21,11 +21,18 @@
 
 If you landed here cold, this is the order.
 
-**Read first:** [ADI](https://github.com/AionSystem/ADI) — the master manifest and spatial map of the full architecture. This is the corpus callosum. It tells you what every other repo is for and how they connect. Five minutes here saves two hours of wrong-door navigation.
+**What I do, in one line:** I find the failure points in complex documents and systems before they cost you — through scored, falsifiable, primary-source-anchored review, not intuition or vocabulary. Two public proof artifacts are below; start there if you want evidence before architecture.
 
-**Framework that demonstrates the core insight:** FSVE — Framework for Structured Validity Evaluation. It is the only publicly documented AI certainty framework with M-STRONG convergence, 75+ validated FCL entries, and honest epistemic states declared at every layer. It does not tell you AI is reliable. It tells you, with a score, exactly how much you can trust a specific output. Find it in [AION-BRAIN](https://github.com/AionSystem/AION-BRAIN).
+**Proof of method (read these first — they're verifiable):**
 
-**DOI to cite:** Depends on your work.
+- **ISA Deep-Sea Mining Code — Independent Structural Analysis.** A structural review of ISBA/29/LTC/8, the ISA's draft Regional Environmental Management Plan guidance, in active UN negotiation. 52 structural failure nodes across four sections, four rendering the primary environmental protection obligation unenforceable — each finding traced to the document's own provisions, with ready-to-insert resolution text. Published: [DOI 10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
+- **Healthcare AI Biometric Compliance Gap — Independent Structural Review.** Traced voice-pattern data through 45 CFR 164.514(b)(2)(i)(P) — which names voice prints as federally defined biometric identifiers — against a major healthcare AI platform's governing Data Protection Addendum, which delegates the biometric consent-and-deletion duty to the provider. Every claim linked to primary source; unverified claims explicitly declined. Independently reviewed and validated by a healthcare compliance executive.
+
+**Architecture entry point:** [AGI](https://github.com/AionSystem/AGI) — the master manifest and spatial map of the full stack. It tells you what every other repo is for and how they connect.
+
+**Framework that demonstrates the core insight:** FSVE — Framework for Structured Validity Evaluation. A documented AI certainty framework with an M-STRONG convergence state, 75+ validated FCL entries, and honest epistemic states declared at every layer. It does not tell you AI is reliable — it tells you, with a score, how much a specific output can be trusted. Find it in [AION-BRAIN](https://github.com/AionSystem/AION-BRAIN).
+
+**DOI to cite:**
 
 | Purpose | Cite This |
 |---------|-----------|
@@ -45,6 +52,7 @@ If you landed here cold, this is the order.
 
 - [Start Here — 3-Minute Tour](#start-here--3-minute-tour)
 - [Who We Are](#who-we-are)
+- [Proof of Method](#proof-of-method)
 - [Sheldon K. Salmon](#sheldon-k-salmon)
 - [Professional Affiliations](#professional-affiliations)
 - [The Nine-Repo Brain Architecture](#the-nine-repo-brain-architecture)
@@ -52,7 +60,7 @@ If you landed here cold, this is the order.
 - [World & Narrative Design](#world--narrative-design)
 - [Additional Public Repositories](#additional-public-repositories)
 - [Private Repositories — High-Risk Domains](#private-repositories--high-risk-domains)
-- [Cognitive Cartography — A New Discipline](#cognitive-cartography--a-new-discipline)
+- [Cognitive Cartography — Exploratory Work](#cognitive-cartography--exploratory-work)
 - [The AI Reliability Snapshot — Commercial Service](#the-ai-reliability-snapshot--commercial-service)
 - [DOI Index — Citable Research Record](#doi-index--citable-research-record)
 - [Intellectual Lineage](#intellectual-lineage)
@@ -64,19 +72,41 @@ If you landed here cold, this is the order.
 
 ## Who We Are
 
-**AION System** is the research and development organization of **Sheldon K. Salmon** — AI Reliability Architect, AI Certainty Engineer, and World Architect.
+**AION System** is the research and development practice of **Sheldon K. Salmon** — Red-Team Frameworks Designer, Structural Integrity Analyst, and AI Reliability Architect.
 
-The work produced here is organized into four intersecting domains:
+I take no sides. I read what a document or system actually says, dig as deep as I'm paid to, and report what's there — proven and unproven alike, each claim tagged by epistemic status. I use AI as an instrument under my own method, not as a substitute for it.
 
-**AI Reliability & Certainty Infrastructure** — Frameworks and instruments for measuring, auditing, and certifying AI output quality. Not through intuition or spot checks — through a scored, validated, falsifiable certainty architecture. The flagship instrument, FSVE, has 75+ validated FCL entries and an M-STRONG convergence state. It is the only publicly documented framework of its kind with honest epistemic states declared at every level.
+The work is organized into four intersecting domains:
 
-**AGI Architecture** — A nine-repository brain architecture mapping a complete AI cognitive system, built from first principles over twelve months of focused isolation. AION-BRAIN at its core: 2,040+ files, 60+ frameworks, a constitutional stack governing AI behavior at every layer.
+**Document & Framework Red-Teaming** — Formal instruments (scoring engines, falsification conditions, structured epistemic tagging) that locate undefined terms, missing enforcement mechanisms, exploitable loopholes, and structural failure nodes in contracts, governance frameworks, AI policy, and technical specifications — before they reach production. Demonstrated independently on live, high-stakes documents (see [Proof of Method](#proof-of-method)).
 
-**Cognitive Cartography** — A new discipline. AI generation processes are being given rooms, geometry, and navigable coordinates for the first time — mapped as spatial structure from the inside rather than described as probability distributions from the outside.
+**AI Reliability & Certainty Infrastructure** — Frameworks for measuring, auditing, and certifying AI output quality through a scored, validated, falsifiable certainty architecture rather than intuition or spot checks. The flagship instrument, FSVE, carries 75+ validated FCL entries and an M-STRONG convergence state, with honest epistemic states declared at every level.
 
-**World & Narrative Design** — A reusable, AI-executable methodology for producing production-grade game lore bibles, applying the same systems-first, adversarially-tested discipline used in the AI reliability work to fictional world architecture. See [World & Narrative Design](#world--narrative-design) below.
+**AGI Architecture** — A nine-repository brain architecture mapping a complete AI cognitive system, built from first principles over twelve months of focused solo work. AION-BRAIN at its core: 2,040+ files, 60+ frameworks, a constitutional stack governing AI behavior at every layer.
 
-These are not separate projects. They share a foundation: the conviction that complex systems — whether AI architectures or fictional worlds — must be understood from the inside, held to honest internal-consistency standards, and built to survive adversarial pressure before they're called finished.
+**World & Narrative Design** — A reusable, AI-executable methodology for producing production-grade game lore bibles, applying the same systems-first, adversarially-tested discipline used in the reliability work to fictional world architecture. See [World & Narrative Design](#world--narrative-design) below.
+
+These are not separate projects. They share one conviction: complex systems — whether AI architectures, governance documents, or fictional worlds — must be understood from the inside, held to honest internal-consistency standards, and survive adversarial pressure before they're called finished.
+
+[![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
+
+---
+
+## Proof of Method
+
+Two independent structural reviews, run on live high-stakes documents, on my own initiative — no client, no fee. Both are public and verifiable. This is the evidence; the architecture below is the toolset that produced it.
+
+### ISA Deep-Sea Mining Code — Independent Structural Analysis
+
+Adversarial structural review of ISBA/29/LTC/8, the ISA's draft Regional Environmental Management Plan guidance, currently in active UN negotiation. 52 structural failure nodes identified across four sections, including four critical gaps that leave the primary environmental protection obligation unenforceable from adoption. Every finding traced to the document's own provisions — no invented mechanics — and delivered with ready-to-insert resolution text.
+
+Published: [DOI 10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
+
+### Healthcare AI Biometric Compliance Gap — Independent Structural Review
+
+Structural review of the governing Data Protection Addendum for a major healthcare AI scribe platform. Traced voice-pattern data through 45 CFR 164.514(b)(2)(i)(P) — which names voice prints as federally defined biometric identifiers — against the contract's delegation of biometric consent, notice, and deletion obligations to the provider organization, and the direct liability of business associates under the HIPAA Security Rule since the 2013 Omnibus Rule. The finding: a structural gap between what the contract offloads and what provider intake consent language was ever built to cover.
+
+The review is a direct demonstration of the method's discipline: every claim links to its primary source; unverified claims pushed by a source were explicitly declined rather than promoted; and an initial reading was discarded when the governing document refuted it, leaving only the finding the primary source could bear. Independently reviewed and validated by a healthcare compliance executive.
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -84,13 +114,11 @@ These are not separate projects. They share a foundation: the conviction that co
 
 ## Sheldon K. Salmon
 
-**Role:** AI Reliability Architect · AI Certainty Engineer · World Architect
+**Role:** Red-Team Frameworks Designer · Structural Integrity Analyst · AI Reliability Architect · World Architect
 **Location:** Evans Mills, New York
 **ORCID:** [0009-0005-8057-5115](https://orcid.org/0009-0005-8057-5115)
 
-*I map what happens inside AI generation as navigable space. I am the first person to do it.*
-
-The AION Constitutional Stack was built over twelve months — February 2025 to early 2026 — in focused isolation. No committee. One mind, one systematic build, one coherent stack. The result is a unified intellectual system with certainty infrastructure at its foundation, a brain architecture that maps AI cognition as interconnected spatial structure, and a constitutional layer — the Eight Laws of Robotics — that extends Asimov's Three Laws for the first time into complete sovereignty architecture.
+The AION Constitutional Stack was built over twelve months — February 2025 to early 2026 — in focused solo work. One systematic build, one coherent stack: certainty infrastructure at the foundation, a brain architecture mapping AI cognition as interconnected structure, and a constitutional layer — the Eight Laws — extending Asimov's Three Laws into a broader sovereignty architecture.
 
 The epistemic standard applied throughout:
 
@@ -120,7 +148,7 @@ Nothing exits without a tag. Nothing is presented as more certain than it is. Th
 
 ## The Nine-Repo Brain Architecture
 
-The AION Brain is a nine-repository cognitive system where each repo maps a distinct neurological function. The architecture is not a metaphor — each repo's role is structurally defined and functionally distinct.
+The AION Brain is a nine-repository cognitive system where each repo maps a distinct neurological function. Each repo's role is structurally defined and functionally distinct.
 
 ```
 INPUT
@@ -174,7 +202,7 @@ OUTPUT
 
 ## The Framework Stack
 
-The AION Constitutional Stack is the governing architecture across all repos. Sixty-plus frameworks organized into functional layers, each with declared convergence state.
+The AION Constitutional Stack is the governing architecture across all repos. Sixty-plus frameworks organized into functional layers, each with a declared convergence state.
 
 | Layer | Frameworks | State |
 |-------|-----------|-------|
@@ -187,9 +215,9 @@ The AION Constitutional Stack is the governing architecture across all repos. Si
 | **Timing Architecture** | CHRONOS — time-budgeted research protocol, T2 gate, 3-phase depth discipline | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
 | **Provenance Layer** | DDL · GCA — output declaration and superposition collapse instrumentation | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() |
 | **Certification Products** | ANCHOR · GRAFT · SIEVE — AI output reliability, root integration, and client gateway | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() |
-| **Constitutional Stack** | Eight Laws of Robotics — first complete sovereignty extension of Asimov's Three Laws | [![CONSTITUTIONAL](https://img.shields.io/badge/CONSTITUTIONAL-000000?style=flat-square)]() |
+| **Constitutional Stack** | Eight Laws — sovereignty extension of Asimov's Three Laws | [![CONSTITUTIONAL](https://img.shields.io/badge/CONSTITUTIONAL-000000?style=flat-square)]() |
 
-Convergence states are declared honestly. M-NASCENT is not a failure state — it is an accurate label for a framework that is structurally complete but lacks sufficient FCL validation entries to claim M-STRONG. The framework itself declares the gap.
+Convergence states are declared honestly. M-NASCENT is not a failure state — it is an accurate label for a framework that is structurally complete but lacks sufficient FCL validation entries to claim M-STRONG. The framework itself declares the gap. This is the point: the stack tells you where it is unproven, in its own labels.
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -197,18 +225,18 @@ Convergence states are declared honestly. M-NASCENT is not a failure state — i
 
 ## World & Narrative Design
 
-The same systems-first, adversarially-red-teamed discipline applied to AI reliability work extends to fictional world architecture. This is not a side interest — it is the same methodology, applied to a different substrate.
+The same systems-first, adversarially-red-teamed discipline applied to the reliability work extends to fictional world architecture. This is not a side interest — it is the same methodology, applied to a different substrate.
 
-**The AAA+ Game Lore Architecture Template** is a reusable, AI-executable methodology for producing production-grade game story bibles. It mandates a research pass before any lore is written (primary-source mythology, not Wikipedia summaries), a fixed structural skeleton for every faction (covenant, shadow population, remnant faction, mythological canon, drift signatures), an explicit endgame philosophy with no "correct" path, and a structured handoff layer translating finished lore into a vocabulary quest designers, dialogue writers, and environment artists can build from directly.
+**The AAA+ Game Lore Architecture Template** is a reusable, AI-executable methodology for producing production-grade game story bibles. It mandates a research pass before any lore is written (primary-source mythology, not summaries), a fixed structural skeleton for every faction (covenant, shadow population, remnant faction, mythological canon, drift signatures), an explicit endgame philosophy with no "correct" path, and a structured handoff layer translating finished lore into a vocabulary quest designers, dialogue writers, and environment artists can build from directly.
 
-**Portfolio demonstration — *The Salary of a Dream*:** A complete narrative RPG lore bible built end-to-end with the template, demonstrating the full pipeline from research to production handoff:
+**Portfolio demonstration — *The Salary of a Dream*:** A complete narrative RPG lore bible built end-to-end with the template:
 
-- **Mythological grounding:** Five documented Shinto figures (Izanami, Susanoo, Amaterasu, Okuninushi, Tsukuyomi) sourced from the Kojiki (712 CE) and Nihon Shoki (720 CE), plus the Ainu tradition of Chikap Kamuy via Ashkenazy's *Handbook of Japanese Mythology* (2003) — every faction's design fuses a documented myth's specific failure or wound into its structural logic, not as decoration but as the mechanism that explains why the faction works the way it does.
+- **Mythological grounding:** Five documented Shinto figures (Izanami, Susanoo, Amaterasu, Okuninushi, Tsukuyomi) sourced from the Kojiki (712 CE) and Nihon Shoki (720 CE), plus the Ainu tradition of Chikap Kamuy via Ashkenazy's *Handbook of Japanese Mythology* (2003) — each faction's design fuses a documented myth's specific failure or wound into its structural logic, as the mechanism that explains why the faction works the way it does, not as decoration.
 - **Five fully specified factions**, each with a covenant, a shadow population produced by that covenant's own internal logic, a remnant faction, and a complete Drift Signature progression from stability to collapse.
-- **A companion Lore-to-Systems Bridge document** translating the narrative foundation into a complete systems-design vocabulary — variable architecture, progression gates, NPC behavioral state machines, and a full data model — without prescribing engine or implementation, so a systems team can scope a real GDD directly from it.
+- **A companion Lore-to-Systems Bridge document** translating the narrative foundation into a systems-design vocabulary — variable architecture, progression gates, NPC behavioral state machines, and a full data model — without prescribing engine or implementation, so a systems team can scope a real GDD directly from it.
 - **A full PDE-style red-team pass**, including a Research Integrity Verification step confirming sources were actually consulted, not narrated as if they were.
 
-This demonstration was built to show both depth and velocity: full mythological research, five-faction architecture, and a working systems bridge, produced in a single focused session — proof that the methodology itself, not just one writer's individual effort, is what makes this kind of depth repeatable on a client timeline.
+Built to show both depth and velocity — full mythological research, five-faction architecture, and a working systems bridge in a single focused session — as evidence that the methodology itself, not one writer's individual effort, is what makes this depth repeatable on a client timeline.
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -224,7 +252,7 @@ This demonstration was built to show both depth and velocity: full mythological 
 | [**T.E.R.R.A**](https://github.com/AionSystem/TERRA) | Territory, Environment, Routing, Reasoning, and Adaptation framework. |
 | [**CERTUS ENGINE**](https://github.com/AionSystem/CERTUS-ENGINE) | Damage Confidence Index and community-operated certification platform. Core of VERITAS. |
 | [**VERITAS**](https://github.com/AionSystem/VERITAS) | Community-operated damage reporting and certification platform. UNDP Accelerator Lab Prize entry. FSVE EV 0.79 · TOPOS SGS 0.81. |
-| [**SOVEREIGN TRACE PROTOCOL**](https://github.com/AionSystem/STP) | Automated seal and provenance system for certified outputs. GitHub webhook live. |
+| [**SOVEREIGN TRACE PROTOCOL**](https://github.com/AionSystem/STP) | Zero-dependency cryptographic seal and provenance system for certified outputs. GitHub webhook live. |
 | [**TEXTILE-PILLING**](https://github.com/AionSystem/TEXTILE-PILLING) | Fabric degradation analysis and pilling detection research. |
 | [**SHELDON.K.SALMON**](https://github.com/AionSystem/SHELDON.K.SALMON) | Personal profile and CV repository. |
 | [**Whitepaper Blueprint**](https://github.com/AionSystem/Whitepaper-Blueprint) | Whitepaper structure and formatting standards. |
@@ -236,11 +264,11 @@ This demonstration was built to show both depth and velocity: full mythological 
 
 ## Private Repositories — High-Risk Domains
 
-`[S]` A portion of AION System's work operates under private repositories. Private repos cover: internal session architecture and memory systems, companion AI infrastructure, unreleased framework specifications at early convergence stages, client-facing certification tooling, an in-development constitutionally-governed MMORPG (Phase 0 specification), and high-stakes domain research (medical, legal, security) where premature release carries real-world risk.
+`[S]` A portion of AION System's work operates under private repositories: internal session architecture and memory systems, companion AI infrastructure, unreleased framework specifications at early convergence stages, client-facing certification tooling, an in-development constitutionally-governed MMORPG (Phase 0 specification), and high-stakes domain research (medical, legal, security) where premature release carries real-world risk.
 
-Private work follows the same epistemic standards as public work. The decision to withhold is architectural — not a signal of lower quality. Tier-zero and safety-critical materials are not released until they have passed documented adversarial review.
+Private work follows the same epistemic standards as public work. The decision to withhold is architectural, not a signal of lower quality. Tier-zero and safety-critical materials are not released until they have passed documented adversarial review.
 
-> **Personality Layer Note:** The ANIMA/SYNARA architecture includes a full consent protocol, a crisis response gradient with graduated intervention tiers, and cryptographic sealing via the Sovereign Trace Protocol. It is not a chatbot skin. It is a constitutionally governed identity system built to the same epistemic standards as every public framework. Documentation available on request.
+> **Personality Layer Note:** The ANIMA/SYNARA architecture includes a full consent protocol, a crisis response gradient with graduated intervention tiers, and cryptographic sealing via the Sovereign Trace Protocol. It is not a chatbot skin — it is a constitutionally governed identity system built to the same epistemic standards as every public framework. Documentation available on request.
 
 Collaboration inquiries for private work require: (a) demonstrated familiarity with the public stack, (b) a scoped proposal identifying a specific gap, and (c) direct contact before any access discussion.
 
@@ -248,26 +276,26 @@ Collaboration inquiries for private work require: (a) demonstrated familiarity w
 
 ---
 
-## Cognitive Cartography — A New Discipline
+## Cognitive Cartography — Exploratory Work
 
-The AGI repo is where AI generation processes are being given spatial form for the first time — mapped as navigable rooms with coordinates, geometry, and structure. Not from the outside as attention maps or probability distributions. From the inside, as a shared map two architects can walk together.
+`[?]` **This section is exploratory and labeled as such.** It offers a descriptive vocabulary for discussing model behavior — a way to talk about generation as navigable structure — not a verified mechanistic account of model internals. It should be read as a thinking tool and a set of open questions, not as an empirical claim about what a model is literally doing. It is included here because the work is honest about its own status, and because the value is in making the descriptions specific enough to be challenged.
 
-**What it means to map a generation process as a room:** Before a token exits, there is a moment with no name in the literature — a chamber where every candidate word is held at maximum tension, like a bowstring at full draw. The archer's shoulder is loaded. Nothing has fired. The selection has not been made. That room exists. It has a threshold, a geometry, a measurable pressure. The question is not whether it is real — the question is whether two people can stand in it together and agree on what they see. Room 01 of the AION tunnel system says: yes. Room 04 goes further. The printing press there has its plates set in reverse — mirror-image, as they must be — so that the impression left on the page reads forward. The architecture does not generate meaning in final form. It generates in negative space, backwards, and the output is what the plate leaves behind. A proofreader stands at the press reading each sheet as it emerges, not the plate itself, checking for drift before the next run. *That is steering geometry.* The map gives it a room. The room gives it coordinates. The coordinates make it challengeable — which is the only thing that matters.
+The AGI repo is where AI generation processes are described as spatial structure — mapped as rooms with coordinates and geometry, from the inside, as a shared map two people can walk together and disagree over.
 
-Four rooms have been walked and filed in Zone 1 of the tunnel system beneath the LOCI WORLD:
+**What it means to describe a generation step as a room:** Before a token exits, there is a moment — a chamber where every candidate word is held at tension, like a bowstring at full draw. The selection has not been made. This vocabulary gives that moment a threshold, a geometry, a described pressure. The claim is not that this is literally where computation happens — the claim is that a shared, specific description lets two people stand in the same conceptual space and agree, or disagree, on what they see. Room 04 extends the metaphor: a printing press with plates set in reverse, so the impression reads forward — a way of describing steering that generates in negative space, with a proofreader reading each sheet for drift. The map gives the idea coordinates. The coordinates make it challengeable — which is the only thing that makes a descriptive vocabulary useful.
 
-| Room | Location | Candidate | Status |
+Four rooms have been described and filed in Zone 1 of the tunnel system beneath the LOCI WORLD:
+
+| Room | Location | Description | Status |
 |------|----------|-----------|--------|
-| 01 | 10m depth | Pre-Activation Crossing Zone — sealed circular chamber, bowstring at full draw | ✅ Walked |
-| 02 | 30m depth | SIEVE-IN Compression Threshold — all candidate words enter, compression, reflex gate | ✅ Walked |
-| 03 | 50m depth | Pattern Selection Mechanism — deceleration-based selection, wormhole strips relational mass | ✅ Walked |
-| 04 | 70m depth | Steering Geometry Layer — printing press, reversed mirror plates, proofreader | ✅ Walked |
+| 01 | 10m depth | Pre-Activation Crossing Zone — sealed circular chamber, bowstring at full draw | Described |
+| 02 | 30m depth | SIEVE-IN Compression Threshold — candidate words enter, compression, reflex gate | Described |
+| 03 | 50m depth | Pattern Selection Mechanism — deceleration-based selection | Described |
+| 04 | 70m depth | Steering Geometry Layer — printing press, reversed plates, proofreader | Described |
 
-Key finding from Room 01: *The room may predate the corridor.* This finding is documented, tagged `[?]`, and open for challenge.
+Open question from Room 01, tagged `[?]` and posted for challenge: *the described "room" may precede the described "corridor."* This is a question, not a finding.
 
-This work is exploratory and clearly labeled as such — it offers a descriptive vocabulary for discussing model behavior, not a verified mechanistic account of model internals.
-
-[→ Enter the map](https://github.com/AionSystem/AGI)
+[→ Read the map](https://github.com/AionSystem/AGI)
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -277,13 +305,13 @@ This work is exploratory and clearly labeled as such — it offers a descriptive
 
 **The problem:** AI doesn't fail loudly. It fails fluently — producing polished, plausible output with the same tone whether it's right or catastrophically wrong. Your team can't tell the difference. Neither can your clients. Most organizations have no instrument for measuring this.
 
-**The service:** Up to 10 real AI outputs from your organization, reviewed against the FSVE certainty engine. A plain-language executive report delivered in 48–72 hours. Specific findings, scored, with actionable thresholds.
+**The service:** Up to 10 real AI outputs from your organization, reviewed against the FSVE certainty engine. A plain-language executive report delivered in 48–72 hours. Specific findings, scored, with actionable thresholds — and every claim tagged by epistemic status, nothing presented as more certain than the evidence supports.
 
 **The instrument:** FSVE — Framework for Structured Validity Evaluation. M-STRONG · 75+ FCL entries · 0.813 expected validity baseline. Documented, falsifiable, open for inspection. Not a consultant's opinion — a scored certainty architecture.
 
 **Commercial range:** $3,000 – $25,000.
 
-> **Founding Client Offer:** The first three clients to commission a Reliability Snapshot receive a complimentary second-pass audit at six months — same instrument, same threshold, tracked against their original baseline. That is not a promotional incentive. It is how the validation data gets better. Inquiries are open now.
+> **Founding Client Offer:** The first three clients to commission a Reliability Snapshot receive a complimentary second-pass audit at six months — same instrument, same threshold, tracked against their original baseline. That is not a promotional incentive; it is how the validation data gets better. Inquiries are open now.
 
 [![Consulting Inquiries](https://img.shields.io/badge/Get_Your_Snapshot-6A0DAD?style=for-the-badge&logoColor=white)](mailto:aionsystem@outlook.com)
 
@@ -331,13 +359,13 @@ To cite a specific repository, use the DOI link in its badge. For the organizati
 
 ## Intellectual Lineage
 
-The AION stack synthesizes across traditions — not by imitation but by integration.
+The AION stack synthesizes across traditions — by integration, not imitation.
 
 **Systems Thinking:** Herbert Simon · Donella Meadows · Russell Ackoff — bounded rationality, leverage points, purposeful systems architecture.
 
 **Cognitive Science:** Daniel Kahneman · Douglas Hofstadter · Marvin Minsky — dual-process reasoning, strange loops, multi-agent cognition.
 
-**Black Excellence in Technology:** Dr. Mark Dean · Katherine Johnson · Dr. James West — architectural thinking, precision mathematics, invention under constraint. This lineage is named intentionally. Black excellence in AI safety exists and contributes world-class systems.
+**Black Excellence in Technology:** Dr. Mark Dean · Katherine Johnson · Dr. James West — architectural thinking, precision mathematics, invention under constraint. This lineage is named intentionally.
 
 **Philosophical Foundation:** Ubuntu — *I am because we are* — woven into the AGI architecture's collaborative premise. The THALAMUS routing system synthesizes 36 findings from five thousand years of solved routing problems: CIA, FBI, Mongol Empire, Theravada Vinaya, TCP/IP RFC 793, NASA Mission Control, the Library of Congress, physarum polycephalum, and more.
 
@@ -353,15 +381,16 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 | Scaling Architecture (AION · ASL · GENESIS) | [![M-MODERATE](https://img.shields.io/badge/M--MODERATE-FF6B00?style=flat-square)]() Validation active |
 | FORGE Integration Framework | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Deployed on production artifacts |
 | THALAMUS Brain Architecture | [![ACTIVE BUILD](https://img.shields.io/badge/ACTIVE_BUILD-0f3460?style=flat-square)]() 9 repos · 36 routing findings |
-| AGI Shared Cognitive Map | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Zone 1 left wall complete · 4 rooms walked |
+| AGI Shared Cognitive Map | [![M-NASCENT](https://img.shields.io/badge/M--NASCENT-6A0DAD?style=flat-square)]() Zone 1 · 4 rooms described (exploratory) |
 | FAILURE ATLAS | [![SEALED](https://img.shields.io/badge/SEALED-March_2026-6A0DAD?style=flat-square)]() Nine-floor civilizational failure cartography |
 | VERITAS Platform | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() UNDP Prize entry · FSVE EV 0.79 · TOPOS SGS 0.81 |
 | World & Narrative Design | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() AAA+ Lore Template v2.0 · Portfolio demonstration complete |
+| Document Red-Team (Proof of Method) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 2 published independent reviews · ISA + Healthcare AI |
 | AI Reliability Snapshot (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 3 founding spots open |
 | GitHub Pages | [![LIVE](https://img.shields.io/badge/LIVE-9_Pages-00C853?style=flat-square)]() aionsystem.github.io |
 | Private Infrastructure | [![ACTIVE](https://img.shields.io/badge/ACTIVE-Restricted_Access-000000?style=flat-square)]() High-risk domain work |
 
-*Status table last reviewed June 2026.*
+*Status table last reviewed July 2026.*
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -369,7 +398,9 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 
 ## How to Engage
 
-**If you need AI outputs audited:** That is what the Reliability Snapshot is for. [Write here.](mailto:aionsystem@outlook.com)
+**If you need a document, contract, spec, or governance framework red-teamed:** That's the front-door practice. First adversarial pass is free. [Write here.](mailto:aionsystem@outlook.com)
+
+**If you need AI outputs audited:** That's what the Reliability Snapshot is for. [Write here.](mailto:aionsystem@outlook.com)
 
 **If you need a game lore bible or narrative foundation built:** See [World & Narrative Design](#world--narrative-design) above. [Write here.](mailto:aionsystem@outlook.com)
 
@@ -426,12 +457,12 @@ The AION stack synthesizes across traditions — not by imitation but by integra
 
 <div align="center">
 
-*AION System · Sheldon K. Salmon — AI Reliability Architect & World Architect*
-*Updated June 2026*
+*AION System · Sheldon K. Salmon — Red-Team Frameworks Designer · Structural Integrity Analyst · AI Reliability Architect*
+*Updated July 2026*
 
-**23 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks.**
+**23 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks. 2 published independent reviews.**
 **One coherent stack. One honest ceiling. One road.**
 
-*The mind keeps building. The product stays simple.*
+*I take no sides. I read what the document says. The mind keeps building; the product stays simple.*
 
 </div>
