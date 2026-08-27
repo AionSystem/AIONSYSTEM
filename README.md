@@ -21,7 +21,7 @@
 
 - [What I Do](#what-i-do)
 - [Proof of Method](#proof-of-method)
-- [The Instrument — FSVE](#the-instrument--fsve)
+- [One of the Instruments — FSVE](#one-of-the-instruments--fsve)
 - [Services](#services)
 - [Sheldon K. Salmon](#sheldon-k-salmon)
 - [DOI / Citable Record](#doi--citable-record)
@@ -75,9 +75,9 @@ Every claim links to its primary source; unverified claims pushed by a source we
 
 ---
 
-## The Instrument — FSVE
+## One of the Instruments — FSVE
 
-**FSVE — Framework for Structured Validity Evaluation** is the scoring engine behind the audits above. It doesn't tell you a document is "fine" in the abstract — it gives you a score, on defined dimensions, with a stated validity threshold, so you know exactly where confidence is justified and where it isn't.
+**FSVE — Framework for Structured Validity Evaluation** is one of the instruments in the stack — built for a specific, narrow purpose: scoring how much confidence a document or claim can actually bear, on defined dimensions, against a stated validity threshold. It's not the whole method; it's the piece that turns "this looks fine" into a number you can argue with.
 
 - **State:** M-STRONG convergence · 75+ validated FCL entries · 0.813 expected validity baseline
 - Documented, falsifiable, and open for inspection — not a consultant's opinion dressed up as a metric
@@ -94,6 +94,8 @@ Every claim links to its primary source; unverified claims pushed by a source we
 - Delivered within 72 hours
 - Capped at 5 per month; paid work takes priority
 - NDAs welcome — I'll sign yours, and I'll red-team it too. A weak NDA protects no one.
+
+*The free pass is a single lens from a much deeper adversarial process — one filtered instrument out of a multi-stage build pipeline used on paid engagements. What you get for free is real; it's also the shallow end. That stage alone runs the artifact through a few narrow checks: a scan for what's present that shouldn't be and what's missing that should be, a severity gate that keeps minor issues from being reported with the same weight as structural ones, and an independence check that stops the review from sharing blind spots with whoever built the document. Paid work goes several stages deeper.*
 
 [![Send the Document](https://img.shields.io/badge/Send_the_Document-6A0DAD?style=for-the-badge&logoColor=white)](mailto:aionsystem@outlook.com)
 
