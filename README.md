@@ -1,6 +1,8 @@
 # AionSystem
 
-### *Red-Team Frameworks · Structural Integrity Analysis · AI Reliability & Certainty Engineering · World Architecture*
+### *Red-Team Frameworks Designer · Structural Integrity Analyst · AI Reliability & Certainty Engineering · World Architecture*
+
+*I find what kills a document before it costs you. Contract. Policy. Spec. Framework. Filing. If it's a document, I red-team it.*
 
 *Creator of FSVE (certainty scoring) and the AION Constitutional Stack. ARIA Teaming Programme — Applicant. Foresight Institute community — Computation & Health Extension channels. 23 DOIs.*
 
@@ -13,7 +15,7 @@
 ---
 
 *I take no sides. I read what the document actually says.*
-*The question is not whether your AI is confident — it's whether that confidence is earned, and whether anyone measured it.*
+*Complex documents have failure modes their authors didn't see. Rigorous authors miss things too. Nobody reads their own document as an adversary. I do.*
 
 ---
 
@@ -21,12 +23,22 @@
 
 If you landed here cold, this is the order.
 
-**What I do, in one line:** I find the failure points in complex documents and systems before they cost you — through scored, falsifiable, primary-source-anchored review, not intuition or vocabulary. Two public proof artifacts are below; start there if you want evidence before architecture.
+**What I do, in one line:** I build formal instruments — scoring engines, falsification conditions, structured epistemic tagging — that map undefined terms, missing enforcement mechanisms, exploitable loopholes, and structural failure nodes in documents before they go into production. This isn't a proofread. It's an adversarial audit with a paper trail. Two public proof artifacts are below; start there if you want evidence before architecture.
 
 **Proof of method (read these first — they're verifiable):**
 
-- **ISA Deep-Sea Mining Code — Independent Structural Analysis.** A structural review of ISBA/29/LTC/8, the ISA's draft Regional Environmental Management Plan guidance, in active UN negotiation. 52 structural failure nodes across four sections, four rendering the primary environmental protection obligation unenforceable — each finding traced to the document's own provisions, with ready-to-insert resolution text. Published: [DOI 10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
+- **ISA Deep-Sea Mining Code — Independent Structural Analysis.** A structural review of ISBA/29/LTC/8, the ISA's draft Regional Environmental Management Plan guidance, in active UN negotiation. 52 structural failure nodes across four sections, four rendering the primary environmental protection obligation unenforceable — each finding traced to the document's own provisions, with ready-to-insert resolution text. Unsolicited. Uncompensated. Published: [DOI 10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
 - **Healthcare AI Biometric Compliance Gap — Independent Structural Review.** Traced voice-pattern data through 45 CFR 164.514(b)(2)(i)(P) — which names voice prints as federally defined biometric identifiers — against a major healthcare AI platform's governing Data Protection Addendum, which delegates the biometric consent-and-deletion duty to the provider. Every claim linked to primary source; unverified claims explicitly declined. Independently reviewed and validated by a healthcare compliance executive.
+
+**The offer, if you have a document right now:**
+
+- One document, up to 10 pages
+- 1–2 page report on 2–3 real issues
+- Delivered within 72 hours
+- Capped at 5 per month; paid work takes priority
+- NDAs are fine — I'll sign yours, and I'll red-team it too. A weak NDA protects no one.
+
+[![Send the Document](https://img.shields.io/badge/Send_the_Document-6A0DAD?style=for-the-badge&logoColor=white)](mailto:aionsystem@outlook.com)
 
 **Architecture entry point:** [AGI](https://github.com/AionSystem/AGI) — the master manifest and spatial map of the full stack. It tells you what every other repo is for and how they connect.
 
@@ -74,7 +86,9 @@ If you landed here cold, this is the order.
 
 **AION System** is the research and development practice of **Sheldon K. Salmon** — Red-Team Frameworks Designer, Structural Integrity Analyst, and AI Reliability Architect.
 
-I take no sides. I read what a document or system actually says, dig as deep as I'm paid to, and report what's there — proven and unproven alike, each claim tagged by epistemic status. I use AI as an instrument under my own method, not as a substitute for it.
+I take no sides. I read what a document or system actually says, dig as deep as I'm paid to, and report what's there — proven and unproven alike, each claim tagged by epistemic status. I work alone, with AI as a thinking partner: it doesn't design the instruments or decide what's load-bearing — that judgment stays mine. It runs those instruments at a depth and speed I couldn't sustain solo: multi-domain diagnostics, negation testing, failure-node tracing. Every framework goes through adversarial self-review before I call it done.
+
+Doesn't matter who you are or how much power you have. If you send it, I red-team it the same way.
 
 The work is organized into four intersecting domains:
 
@@ -99,6 +113,8 @@ Two independent structural reviews, run on live high-stakes documents, on my own
 ### ISA Deep-Sea Mining Code — Independent Structural Analysis
 
 Adversarial structural review of ISBA/29/LTC/8, the ISA's draft Regional Environmental Management Plan guidance, currently in active UN negotiation. 52 structural failure nodes identified across four sections, including four critical gaps that leave the primary environmental protection obligation unenforceable from adoption. Every finding traced to the document's own provisions — no invented mechanics — and delivered with ready-to-insert resolution text.
+
+Unsolicited. Uncompensated. I wasn't engaged to resolve the gaps, and I won't present unsolicited work as official. One finding is published, DOI-linked and checkable; the rest stays off-record. I'd rather tell you exactly what's proven and what isn't than blur the line for a better pitch.
 
 Published: [DOI 10.5281/zenodo.21326719](https://doi.org/10.5281/zenodo.21326719)
 
@@ -386,11 +402,12 @@ The AION stack synthesizes across traditions — by integration, not imitation.
 | VERITAS Platform | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() UNDP Prize entry · FSVE EV 0.79 · TOPOS SGS 0.81 |
 | World & Narrative Design | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() AAA+ Lore Template v2.0 · Portfolio demonstration complete |
 | Document Red-Team (Proof of Method) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 2 published independent reviews · ISA + Healthcare AI |
+| Free First-Pass Review (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() Capped at 5/month · 72-hour delivery |
 | AI Reliability Snapshot (Service) | [![ACTIVE](https://img.shields.io/badge/ACTIVE-00C853?style=flat-square)]() 3 founding spots open |
 | GitHub Pages | [![LIVE](https://img.shields.io/badge/LIVE-9_Pages-00C853?style=flat-square)]() aionsystem.github.io |
 | Private Infrastructure | [![ACTIVE](https://img.shields.io/badge/ACTIVE-Restricted_Access-000000?style=flat-square)]() High-risk domain work |
 
-*Status table last reviewed July 2026.*
+*Status table last reviewed August 2026.*
 
 [![↑ Back to Table of Contents](https://img.shields.io/badge/↑_Back_to-Table_of_Contents-374151?style=flat-square)](#table-of-contents)
 
@@ -398,7 +415,7 @@ The AION stack synthesizes across traditions — by integration, not imitation.
 
 ## How to Engage
 
-**If you need a document, contract, spec, or governance framework red-teamed:** That's the front-door practice. First adversarial pass is free. [Write here.](mailto:aionsystem@outlook.com)
+**If you need a document, contract, spec, filing, or governance framework red-teamed:** That's the front door. First pass is free — one document, up to 10 pages, 72-hour turnaround, capped at 5 per month. NDAs welcome; I'll sign yours and red-team it too. [Send the document.](mailto:aionsystem@outlook.com)
 
 **If you need AI outputs audited:** That's what the Reliability Snapshot is for. [Write here.](mailto:aionsystem@outlook.com)
 
@@ -458,11 +475,11 @@ The AION stack synthesizes across traditions — by integration, not imitation.
 <div align="center">
 
 *AION System · Sheldon K. Salmon — Red-Team Frameworks Designer · Structural Integrity Analyst · AI Reliability Architect*
-*Updated July 2026*
+*Updated August 2026*
 
 **23 DOIs. 9 brain repos. 2,040+ files. 60+ frameworks. 2 published independent reviews.**
 **One coherent stack. One honest ceiling. One road.**
 
-*I take no sides. I read what the document says. The mind keeps building; the product stays simple.*
+*I find what kills a document before it costs you. I take no sides. I read what the document says. The mind keeps building; the product stays simple.*
 
 </div>
