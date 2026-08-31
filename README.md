@@ -1,6 +1,6 @@
 # AionSystem
 
-### *Document & Framework Red-Teaming · Structural Integrity Analysis*
+### *Document & Framework Red-Teaming · Structural Integrity Analysis · Advocatus Diaboli (Method)*
 
 *I find what kills a document before it costs you. Contract. Policy. Spec. Framework. Filing. If it's a document, I red-team it — and I show you exactly where it fails, with a paper trail back to the document's own text.*
 
